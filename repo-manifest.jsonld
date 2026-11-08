@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/argilla-server/commit/6130c634506bc649a64d8461992946537ae287e1",
       "git:hexsha": "6130c634506bc649a64d8461992946537ae287e1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/argilla-io/argilla-server/commit/9f1e4b5c04785fdf835b588a36126173286bafa0",
